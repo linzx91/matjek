@@ -1,6 +1,6 @@
-## 一个独立的博客站点
+### 一款 Material Design 风格的 Jekyll 主题
 
-[**Aligege Blog**](https://linzx91.github.io)
+**效果预览：[Aligege Blog](https://linzx91.github.io)**
 
 基于 [Materialize.css](http://materializecss.com/) 的 [Jekyll](http://jekyllrb.com/) 博客站点。
 
