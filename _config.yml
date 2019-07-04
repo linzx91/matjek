@@ -16,8 +16,8 @@
 title: Aligege Blog
 description: > # this means to ignore newlines until "baseurl:"
   Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
-baseurl: ""
-url: "https://linzx91.github.io"
+baseurl: "/matjek"
+url: ""
 permalink: /:year/:month/:day/:title
 repository: linzx91/
 paginate: 5
